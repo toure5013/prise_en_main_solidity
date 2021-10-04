@@ -22,7 +22,7 @@ contract Ecole {
         "0x40b43d492bed2Fa90B30CA1618530c1a6b7601C7"
         11 = "0xB"
         address
-
+ 
         4 - booleen
         vrai ou faux
         true(1) ou false(0)
